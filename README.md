@@ -1,2 +1,2 @@
 teste de desafio
-teste de conflito remoto
+teste de desafio de conflito local
